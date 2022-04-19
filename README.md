@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **ming-make/ming-make** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
+- [ ] [CMU 15-213: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
+
+- [ ] [UCB CS 61C: Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp22/)
