@@ -18,3 +18,6 @@ Here are some ideas to get you started:
  - [ ] [CMU 15-213: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
 
  - [ ] [UCB CS 61C: Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp22/)
+ 
+ 
+ - [ ] [UCB CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
