@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
  - [ ] [UCB CS 61C: Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp22/)
  
- 
  - [ ] [UCB CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
