@@ -1,6 +1,8 @@
+<!-- 个人信息 -->
 <div align="center">
     <img src="https://metrics.lecoq.io/ming-make?template=classic&config.timezone=Asia%2FShanghai">
 </div>
+
 
 <!-- GitHub数据统计 -->
 <div align="center">
