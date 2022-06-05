@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="https://metrics.lecoq.io/ming-make?template=classic&config.timezone=Asia%2FShanghai">
+    
+![Metrics](https://metrics.lecoq.io/ming-make?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+    
 </div>
 
 [![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=ming-make&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![Ming's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ming-make&layout=compact&hide_border=true&langs_count=10)
