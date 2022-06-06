@@ -31,3 +31,5 @@ Here are some ideas to get you started:
  - [ ] [UCB CS 61B: Data Structure](https://sp21.datastructur.es/index.html)
  
  - [ ] [UCB CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
+ 
+- 🌱 I’m interested in computer architecture, computer system and some awesome tools 😄
