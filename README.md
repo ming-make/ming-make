@@ -39,6 +39,4 @@ Here are some ideas to get you started:
 
  - [ ] [Ming_CS_61B](https://github.com/ming-make/Ming_CS_61B)
  
- - [ ] [ARM_LEGv8_CPU](https://github.com/ming-make/ARM_LEGV8_CPU)
- 
  - [ ] [Ming_CMU_15-213_CSAPP](https://github.com/ming-make/Ming_CMU_15-213_CSAPP)
