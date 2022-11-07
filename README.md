@@ -27,16 +27,16 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...
  - [ ] [CMU 15-213: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
-
- - [ ] [UCB CS 61B: Data Structure](https://sp21.datastructur.es/index.html)
  
  - [ ] [UCB CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
+
+ - [ ] 5-stage pipelined CPU and SoC design
  
 - 🌱 I’m interested in computer architecture, computer system and some awesome tools 😄
 
 - 🤔 Repositories under construction
  - [ ] [Ming_CS_61A](https://github.com/ming-make/Ming_CS_61A)
-
- - [ ] [Ming_CS_61B](https://github.com/ming-make/Ming_CS_61B)
  
  - [ ] [Ming_CMU_15-213_CSAPP](https://github.com/ming-make/Ming_CMU_15-213_CSAPP)
+
+ - [ ] [RISC-V 5-stage pipelined CPU and SoC](https://github.com/ming-make/Ming_CMU_15-213_CSAPP)
