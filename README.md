@@ -30,13 +30,13 @@ Here are some ideas to get you started:
  
  - [ ] [UCB CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
 
- - [ ] 5-stage pipelined CPU and SoC design
+ - [ ] RISC-V 5-stage pipelined CPU and SoC design
  
 - 🌱 I’m interested in computer architecture, computer system and some awesome tools 😄
 
 - 🤔 Repositories under construction
- - [ ] [Ming_CS_61A](https://github.com/ming-make/Ming_CS_61A)
+ - [ ] Ming_CS_61A
  
- - [ ] [Ming_CMU_15-213_CSAPP](https://github.com/ming-make/Ming_CMU_15-213_CSAPP)
+ - [ ] Ming_CMU_15-213_CSAPP
 
- - [ ] [RISC-V 5-stage pipelined CPU and SoC](https://github.com/ming-make/Ming_CMU_15-213_CSAPP)
+ - [ ] RISC-V 5-stage pipelined CPU and SoC
