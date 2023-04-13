@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
  - [ ] [CMU 15-213: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
  
  - [ ] [UCB CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
@@ -39,4 +39,4 @@ Here are some ideas to get you started:
  
  - [ ] Ming_CMU_15-213_CSAPP
 
- - [ ] RISC-V 5-stage pipelined CPU and SoC
+ - [ ] RISC-V 5-stage pipelined CPU and SoC -->
